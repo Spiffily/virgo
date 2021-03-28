@@ -12,52 +12,10 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="music1.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="folder-pictures.svg">
   <defs
      id="defs2">
-    <marker
-       style="overflow:visible"
-       id="marker2562"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#019cf5;stroke-width:1pt;stroke-opacity:1;fill:#019cf5;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path2560" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker2546"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path2544" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path1580" />
-    </marker>
     <inkscape:path-effect
        effect="bspline"
        id="path-effect845"
@@ -88,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="53.068687"
-     inkscape:cy="67.259428"
+     inkscape:zoom="2.8"
+     inkscape:cx="-22.239667"
+     inkscape:cy="74.00807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -104,10 +62,10 @@
      guideopacity="0.50588235"
      guidehicolor="#00c282"
      guidehiopacity="0.49803922"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="22"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -169,36 +127,36 @@
        id="rect835"
        width="29.104166"
        height="18.520834"
-       x="2.645834"
-       y="8.4666662"
+       x="2.6458342"
+       y="8.4666672"
        ry="2.1166668" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 31.749998,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 C 16.316113,10.671811 15.434203,8.9079921 13.229351,8.0258712 11.024499,7.1437503 7.4968635,7.1437503 5.5124488,7.1437503 c -1.9844146,0 -2.425378,0 -2.8666148,0"
+       d="m 31.749998,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 C 16.316113,10.671811 15.434203,8.9079931 13.229351,8.0258721 11.024499,7.1437512 7.4968637,7.1437512 5.512449,7.1437512 c -1.9844146,0 -2.425378,0 -2.8666148,0"
        id="path843"
        inkscape:path-effect="#path-effect845"
-       inkscape:original-d="m 31.749998,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.5274779 -2.645834,-5.2916667 -3.527583,2.646e-4 -7.0552185,2.646e-4 -10.5833313,0 -0.4407165,2.646e-4 -0.8816799,2.646e-4 -1.3229167,0"
+       inkscape:original-d="m 31.749998,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.5274768 -2.645834,-5.2916658 -3.527583,2.64e-4 -7.0552183,2.64e-4 -10.5833311,0 -0.4407165,2.64e-4 -0.8816799,2.64e-4 -1.3229167,0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.781249,7.1437504 c 0,0 0,0 0,0 z"
+       d="m 27.781249,7.1437512 c 0,0 0,0 0,0 z"
        id="path847"
        inkscape:path-effect="#path-effect849"
-       inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
+       inkscape:original-d="m 27.781249,7.1437512 c 2.65e-4,2.64e-4 2.65e-4,2.64e-4 0,0 z" />
     <path
-       style="fill:none;stroke:#019cf5;stroke-width:1.32291664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4.2333331,16.933332 7.408333,12.170833 v 9.525"
-       id="path2512" />
+       style="fill:#5aa02c;fill-opacity:1;stroke:#5aa02c;stroke-width:0.295812;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 4.2333337,23.283332 7.4083332,12.699999 11.641666,23.283332 Z"
+       id="path3174" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 15.874999,19.049999 Z"
-       id="path2514" />
-    <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#019cf5;stroke-width:1.32291664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path2594"
-       cx="10.591487"
-       cy="21.817331"
-       rx="3.1750002"
-       ry="3.1749992" />
+       style="fill:#2d5016;stroke:#2d5016;stroke-width:0.295813;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 9.5249982,23.283332 3.1750008,-5.291666 3.175,5.291666 z"
+       id="path3176" />
   </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Linux Icon</inkscape:name>
+    <inkscape:author>Spiffily Software</inkscape:author>
+    <inkscape:shortdesc>Basic non-symbolic linux icon template</inkscape:shortdesc>
+    <inkscape:date>2021-03-27</inkscape:date>
+    <inkscape:keywords>Linux, Icons, Spiffily</inkscape:keywords>
+  </inkscape:templateinfo>
 </svg>
