@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="Linux Icon Template.svg">
+   sodipodi:docname="Default Icon.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -100,14 +100,14 @@
      inkscape:groupmode="layer"
      id="layer1" />
   <inkscape:templateinfo>
-    <inkscape:name>Linux Icon Template</inkscape:name>
+    <inkscape:name>Default Icon Template</inkscape:name>
     <inkscape:author>Josh Langley</inkscape:author>
-    <inkscape:shortdesc>The Spiffily standard non-symbolic Linux icon template.</inkscape:shortdesc>
+    <inkscape:shortdesc>The Spiffily standard non-symbolic icon template.</inkscape:shortdesc>
     <inkscape:date>2021-03-27</inkscape:date>
     <inkscape:keywords>Spiffily</inkscape:keywords>
   </inkscape:templateinfo>
   <inkscape:templateinfo>
-    <inkscape:name>Linux Icon</inkscape:name>
+    <inkscape:name>Default Icon</inkscape:name>
     <inkscape:author>Spiffily Software</inkscape:author>
     <inkscape:shortdesc>Basic non-symbolic linux icon template</inkscape:shortdesc>
     <inkscape:date>2021-03-27</inkscape:date>
