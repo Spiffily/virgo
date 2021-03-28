@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="round-triangle-with-sub-dropshadow.svg">
+   sodipodi:docname="virgo.svg">
   <defs
      id="defs2">
     <marker
@@ -92,7 +92,7 @@
        inkscape:isstock="true">
       <path
          transform="scale(0.8) translate(7.4, 1)"
-         style="fill-rule:evenodd;stroke:#ffffff;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
+         style="fill-rule:evenodd;stroke:none;stroke-width:1pt;stroke-opacity:1;fill:#ffffff;fill-opacity:1"
          d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
          id="path2105" />
     </marker>
@@ -106,7 +106,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
      inkscape:cx="35.265905"
-     inkscape:cy="71.948427"
+     inkscape:cy="61.846902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -161,7 +161,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -180,17 +180,11 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       id="path899-7"
-       style="opacity:0.5;fill:#7f7f7f;fill-opacity:1;fill-rule:evenodd;stroke-width:0.661458;stroke-miterlimit:4.4"
-       inkscape:transform-center-y="2.3812498"
-       d="m 17.991666,11.641666 c -1.593813,0 -7.452203,0.143655 -8.2491102,1.523939 -0.796907,1.380283 2.0080912,6.525695 2.8049982,7.905978 0.796907,1.380282 3.850299,6.381522 5.444112,6.381522 1.593814,0 4.647205,-5.00124 5.444112,-6.381522 0.796907,-1.380283 3.601903,-6.525695 2.804996,-7.905978 -0.796906,-1.380284 -6.655294,-1.523939 -8.249108,-1.523939 z"
-       sodipodi:nodetypes="sssssss" />
     <circle
        style="opacity:0.5;fill:#650000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.705644"
        id="path2021"
        cx="18.042295"
-       cy="17.972044"
+       cy="18.027733"
        r="12.170834" />
     <path
        id="path2021-3"
@@ -198,10 +192,11 @@
        d="m 21.039714,27.643617 c -1.4561,0.615877 -3.056998,0.956444 -4.737439,0.956444 -6.7217647,0 -12.1708326,-5.449068 -12.1708326,-12.170833 0,-6.7217664 5.4490669,-12.1708334 12.1708326,-12.1708344 6.721767,0 12.170835,5.449068 12.170835,12.1708344 0,1.680441 -0.340567,3.281339 -0.956445,4.737438"
        sodipodi:nodetypes="cssssc" />
     <path
-       id="path899"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.661458;stroke-miterlimit:4.4"
-       inkscape:transform-center-y="2.3812498"
-       d="m 16.473305,10.050717 c -1.593813,0 -7.4522024,0.143655 -8.2491094,1.523938 -0.796908,1.380283 2.0080904,6.525695 2.8049974,7.905978 0.796907,1.380282 3.850299,6.381522 5.444112,6.381522 1.593814,0 4.647205,-5.00124 5.444112,-6.381522 0.796907,-1.380283 3.601903,-6.525695 2.804996,-7.905978 -0.796906,-1.380283 -6.655294,-1.523938 -8.249108,-1.523938 z m 0,1.935799 c 1.085035,0 5.07316,0.09799 5.615677,1.037663 0.542518,0.939668 -1.366926,4.442433 -1.909443,5.382101 -0.542518,0.939667 -2.621199,4.344437 -3.706234,4.344437 -1.085035,0 -3.163716,-3.40477 -3.706233,-4.344437 -0.542518,-0.939668 -2.451962,-4.442433 -1.909445,-5.382101 0.542518,-0.939668 4.530643,-1.037663 5.615678,-1.037663 z" />
+       id="path931"
+       style="opacity:1;fill:#ffffff;fill-rule:evenodd;stroke-width:2.5;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
+       inkscape:transform-center-y="2.3812499"
+       d="M 33.755859 44.005859 A 2.2899764 2.2899764 0 0 0 31.769531 47.4375 L 45.632812 71.435547 L 59.490234 95.435547 A 2.2899764 2.2899764 0 0 0 63.460938 95.435547 C 72.692082 79.433669 81.929169 63.432703 91.171875 47.4375 A 2.2899764 2.2899764 0 0 0 89.1875 44.005859 L 33.755859 44.005859 z M 43.769531 50.507812 L 78.712891 50.507812 A 1.4435828 1.4435828 0 0 1 79.964844 52.671875 C 74.138316 62.755123 68.315334 72.842232 62.496094 82.929688 A 1.4435828 1.4435828 0 0 1 59.992188 82.929688 L 51.257812 67.800781 L 42.517578 52.671875 A 1.4435828 1.4435828 0 0 1 43.769531 50.507812 z "
+       transform="scale(0.26458333)" />
   </g>
   <inkscape:templateinfo>
     <inkscape:name>Default Icon</inkscape:name>
