@@ -12,7 +12,7 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    sodipodi:docname="places-template.svg">
   <defs
      id="defs2">
@@ -75,7 +75,9 @@
        empcolor="#565a65"
        empopacity="0.25098039"
        dotted="false"
-       empspacing="8" />
+       empspacing="8"
+       spacingx="0.13229166"
+       spacingy="0.13229166" />
     <sodipodi:guide
        position="0,33.866666"
        orientation="0,128"
@@ -142,4 +144,10 @@
        inkscape:path-effect="#path-effect849"
        inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
   </g>
+  <inkscape:templateinfo>
+    <inkscape:name>places-template-dense</inkscape:name>
+    <inkscape:author>me</inkscape:author>
+    <inkscape:shortdesc>Josh's places template but with a tighter grid</inkscape:shortdesc>
+    <inkscape:date>2021-03-27</inkscape:date>
+  </inkscape:templateinfo>
 </svg>
