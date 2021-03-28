@@ -13,51 +13,9 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="music1.svg">
+   sodipodi:docname="doc1.svg">
   <defs
      id="defs2">
-    <marker
-       style="overflow:visible"
-       id="marker2562"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#019cf5;stroke-width:1pt;stroke-opacity:1;fill:#019cf5;fill-opacity:1"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path2560" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="marker2546"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path2544" />
-    </marker>
-    <marker
-       style="overflow:visible"
-       id="Arrow1Lstart"
-       refX="0.0"
-       refY="0.0"
-       orient="auto"
-       inkscape:stockid="Arrow1Lstart"
-       inkscape:isstock="true">
-      <path
-         transform="scale(0.8) translate(12.5,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         id="path1580" />
-    </marker>
     <inkscape:path-effect
        effect="bspline"
        id="path-effect845"
@@ -89,8 +47,8 @@
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
-     inkscape:cx="53.068687"
-     inkscape:cy="67.259428"
+     inkscape:cx="51.286868"
+     inkscape:cy="62.423047"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -132,10 +90,6 @@
        position="33.866666,0"
        orientation="0,-128"
        id="guide847" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="-128,0"
-       id="guide849" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -185,20 +139,61 @@
        id="path847"
        inkscape:path-effect="#path-effect849"
        inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
-    <path
-       style="fill:none;stroke:#019cf5;stroke-width:1.32291664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 4.2333331,16.933332 7.408333,12.170833 v 9.525"
-       id="path2512" />
+    <rect
+       style="fill:#999999;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect1884"
+       width="8.4666662"
+       height="12.7"
+       x="4.2333331"
+       y="12.7"
+       ry="2.1166666" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 15.874999,19.049999 Z"
-       id="path2514" />
-    <ellipse
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#019cf5;stroke-width:1.32291664;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-       id="path2594"
-       cx="10.591487"
-       cy="21.817331"
-       rx="3.1750002"
-       ry="3.1749992" />
+       d="M 12.7,14.816666 Z"
+       id="path1888" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.933333,20.108333 Z"
+       id="path1898" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.583333,19.05 Z"
+       id="path1906" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 8.4666668,19.05 Z"
+       id="path1908" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.537302,20.108333 Z"
+       id="path1912" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.05,22.224999 Z"
+       id="path1916" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,22.224999 h 5.2916662 v 0"
+       id="path1924" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 19.05,20.108333 Z"
+       id="path1926" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,20.108333 h 5.2916662 v 0"
+       id="path1928" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 16.933333,20.646949 Z"
+       id="path1930" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,17.991666 h 5.2916662 v 0"
+       id="path1932" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.341666,22.224999 v 0"
+       id="path1934" />
   </g>
 </svg>
