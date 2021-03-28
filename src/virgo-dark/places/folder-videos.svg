@@ -13,7 +13,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="folder-system.svg">
+   sodipodi:docname="folder-videos.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="52.712759"
-     inkscape:cy="56.130574"
+     inkscape:zoom="3.959798"
+     inkscape:cx="52.567052"
+     inkscape:cy="71.683482"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -143,11 +143,29 @@
        id="path847"
        inkscape:path-effect="#path-effect849"
        inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
+    <circle
+       style="fill:#c40000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.576233"
+       id="path846"
+       cx="9.8762102"
+       cy="19.992979"
+       r="5.1854486" />
     <path
-       id="path841"
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:2.667"
-       d="M 38.074219 51.535156 C 32.003236 51.535157 37.302216 56.432595 31.693359 58.755859 C 26.084504 61.079123 26.367051 53.87123 22.074219 58.164062 C 17.781386 62.456896 24.991233 62.172394 22.667969 67.78125 C 20.344705 73.390106 15.447265 68.093081 15.447266 74.164062 C 15.447266 80.235045 20.344704 74.936066 22.667969 80.544922 C 24.991233 86.153778 17.781386 85.87123 22.074219 90.164062 C 26.367052 94.456895 26.084503 87.247048 31.693359 89.570312 C 37.302215 91.893577 32.003237 96.791016 38.074219 96.791016 C 44.145201 96.791015 38.848175 91.893577 44.457031 89.570312 C 50.065887 87.247048 49.781387 94.456895 54.074219 90.164062 C 58.367051 85.871229 51.159158 86.153778 53.482422 80.544922 C 55.805686 74.936066 60.703125 80.235044 60.703125 74.164062 C 60.703125 68.09308 55.805686 73.390106 53.482422 67.78125 C 51.159158 62.172394 58.367051 62.456895 54.074219 58.164062 C 49.781386 53.87123 50.065888 61.079124 44.457031 58.755859 C 38.848176 56.432595 44.1452 51.535156 38.074219 51.535156 z M 37.943359 63.957031 A 10.021556 10.021555 0 0 1 37.978516 63.957031 A 10.021556 10.021555 0 0 1 48 73.978516 A 10.021556 10.021555 0 0 1 37.978516 84 A 10.021556 10.021555 0 0 1 27.957031 73.978516 A 10.021556 10.021555 0 0 1 37.943359 63.957031 z "
-       transform="scale(0.26458333)" />
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40921"
+       id="path842"
+       sodipodi:sides="3"
+       sodipodi:cx="-7.3648405"
+       sodipodi:cy="8.5923128"
+       sodipodi:r1="2.4549465"
+       sodipodi:r2="1.2274733"
+       sodipodi:arg1="3.1415927"
+       sodipodi:arg2="4.1887902"
+       inkscape:flatsided="true"
+       inkscape:rounded="0.2"
+       inkscape:randomized="-1.38778e-17"
+       d="m -9.819787,8.5923127 c 0,-0.8504184 2.9459359,-2.5512551 3.6824199,-2.1260459 0.7364839,0.4252093 0.7364837,3.8268832 -2e-7,4.2520922 -0.736484,0.425209 -3.6824198,-1.2756279 -3.6824197,-2.1260463 z"
+       inkscape:transform-center-x="0.25623484"
+       transform="matrix(-1,0,0,1,2.5279472,11.461867)" />
   </g>
   <inkscape:templateinfo>
     <inkscape:name>places-template-dense</inkscape:name>
