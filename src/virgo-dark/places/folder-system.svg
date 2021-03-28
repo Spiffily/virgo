@@ -12,8 +12,8 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="doc1.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="folder-system.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="51.286868"
-     inkscape:cy="62.423047"
+     inkscape:zoom="5.6"
+     inkscape:cx="52.712759"
+     inkscape:cy="41.84486"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -62,10 +62,10 @@
      guideopacity="0.50588235"
      guidehicolor="#00c282"
      guidehiopacity="0.49803922"
-     inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="-8"
-     inkscape:window-y="22"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -90,6 +90,10 @@
        position="33.866666,0"
        orientation="0,-128"
        id="guide847" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-128,0"
+       id="guide849" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -99,7 +103,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:creator>
           <cc:Agent>
             <dc:title />
@@ -139,61 +143,15 @@
        id="path847"
        inkscape:path-effect="#path-effect849"
        inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
-    <rect
-       style="fill:#999999;fill-rule:evenodd;stroke-width:0.264583"
-       id="rect1884"
-       width="8.4666662"
-       height="12.7"
-       x="4.2333331"
-       y="12.7"
-       ry="2.1166666" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 12.7,14.816666 Z"
-       id="path1888" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.933333,20.108333 Z"
-       id="path1898" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 10.583333,19.05 Z"
-       id="path1906" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8.4666668,19.05 Z"
-       id="path1908" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.537302,20.108333 Z"
-       id="path1912" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.05,22.224999 Z"
-       id="path1916" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.4666668,22.224999 h 5.2916662 v 0"
-       id="path1924" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.05,20.108333 Z"
-       id="path1926" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.4666668,20.108333 h 5.2916662 v 0"
-       id="path1928" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.933333,20.646949 Z"
-       id="path1930" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 8.4666668,17.991666 h 5.2916662 v 0"
-       id="path1932" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 24.341666,22.224999 v 0"
-       id="path1934" />
+       id="path844"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:0.461367"
+       d="m 9.258866,13.265339 c -0.060942,0.0019 -0.1284365,0.0096 -0.2036051,0.02377 -1.0821562,0.204125 0.2686063,1.382145 -0.7022828,1.905826 -1.0790388,0.582016 -1.1506562,-1.207058 -2.0706746,-0.39274 -0.8278074,0.7327 0.9325848,1.046209 0.3519165,1.989542 -0.6453503,1.048413 -1.4896669,-0.551639 -1.8303793,0.629419 -0.3065635,1.062684 1.2449032,0.330796 1.2164634,1.430404 -0.031608,1.222095 -1.5330477,0.573883 -1.2733073,1.775085 0.233707,1.080809 1.151319,-0.299002 1.6789672,0.682129 0.5864239,1.090421 -0.9661188,1.201185 -0.127124,2.089278 0.7549041,0.799082 0.7807351,-0.987777 1.745113,-0.445967 1.0718019,0.602163 -0.3821112,1.618705 0.7818644,2.004012 1.0473132,0.346688 0.5056338,-1.353993 1.6138546,-1.307414 1.231669,0.05177 0.346178,1.448861 1.561662,1.230416 1.093659,-0.196551 -0.292464,-1.071422 0.701766,-1.588017 1.10498,-0.57414 1.00301,0.911647 1.925981,0.07441 0.830463,-0.753319 -0.817396,-0.913185 -0.222726,-1.859835 0.660913,-1.052099 1.497081,0.584323 1.830896,-0.604614 0.300358,-1.069773 -1.038311,-0.430442 -1.027844,-1.550293 0.01163,-1.244594 1.516724,-0.576848 1.272791,-1.800407 -0.219485,-1.100924 -1.431299,0.582782 -1.965255,-0.395324 -0.593435,-1.08706 1.175034,-1.166792 0.382922,-2.099097 -0.71272,-0.838863 -0.911024,0.672726 -1.88774,0.135392 -1.085515,-0.597189 0.275116,-1.494878 -0.911055,-1.840714 -1.067285,-0.311174 -0.225064,1.177066 -1.342554,1.168404 -1.1643468,-0.009 -0.585526,-1.281597 -1.49965,-1.253671 z m 1.324467,2.60966 a 3.279145,3.3159168 0 0 1 3.279386,3.31556 3.279145,3.3159168 0 0 1 -3.279386,3.316077 3.279145,3.3159168 0 0 1 -3.2793865,-3.316077 3.279145,3.3159168 0 0 1 3.2793865,-3.31556 z" />
   </g>
+  <inkscape:templateinfo>
+    <inkscape:name>places-template-dense</inkscape:name>
+    <inkscape:author>me</inkscape:author>
+    <inkscape:shortdesc>Josh's places template but with a tighter grid</inkscape:shortdesc>
+    <inkscape:date>2021-03-27</inkscape:date>
+  </inkscape:templateinfo>
 </svg>

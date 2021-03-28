@@ -12,8 +12,8 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="places-template.svg">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="folder-music.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="52.567052"
-     inkscape:cy="71.683482"
+     inkscape:zoom="2.8"
+     inkscape:cx="39.724619"
+     inkscape:cy="74.00807"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -127,27 +127,43 @@
        id="rect835"
        width="29.104166"
        height="18.520834"
-       x="2.645834"
+       x="2.6458342"
        y="8.4666662"
        ry="2.1166668" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 31.749998,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 C 16.316113,10.671811 15.434203,8.9079921 13.229351,8.0258712 11.024499,7.1437503 7.4968635,7.1437503 5.5124488,7.1437503 c -1.9844146,0 -2.425378,0 -2.8666148,0"
+       d="m 31.749998,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 C 16.316113,10.671811 15.434203,8.9079919 13.229351,8.025871 11.024499,7.1437501 7.4968642,7.1437501 5.5124493,7.1437501 c -1.9844148,0 -2.4253782,0 -2.866615,0"
        id="path843"
        inkscape:path-effect="#path-effect845"
-       inkscape:original-d="m 31.749998,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.5274779 -2.645834,-5.2916667 -3.527583,2.646e-4 -7.0552185,2.646e-4 -10.5833313,0 -0.4407165,2.646e-4 -0.8816799,2.646e-4 -1.3229167,0"
+       inkscape:original-d="m 31.749998,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.527478 -2.645834,-5.2916669 -3.527583,2.646e-4 -7.0552178,2.646e-4 -10.583331,0 -0.4407165,2.646e-4 -0.8816799,2.646e-4 -1.3229167,0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.781249,7.1437504 c 0,0 0,0 0,0 z"
+       d="m 27.781249,7.1437502 c 0,0 0,0 0,0 z"
        id="path847"
        inkscape:path-effect="#path-effect849"
-       inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
+       inkscape:original-d="m 27.781249,7.1437502 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
+    <path
+       style="fill:none;stroke:#019cf5;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 4.2333334,16.933332 3.1749998,-4.762499 v 9.525"
+       id="path2512" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.874999,19.049999 Z"
+       id="path2514" />
+    <ellipse
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#019cf5;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="path2594"
+       cx="10.591487"
+       cy="21.817329"
+       rx="3.1750002"
+       ry="3.1749992" />
   </g>
   <inkscape:templateinfo>
-    <inkscape:name>places-template-dense</inkscape:name>
-    <inkscape:author>me</inkscape:author>
-    <inkscape:shortdesc>Josh's places template but with a tighter grid</inkscape:shortdesc>
+    <inkscape:name>Linux Icon</inkscape:name>
+    <inkscape:author>Spiffily Software</inkscape:author>
+    <inkscape:shortdesc>Basic non-symbolic linux icon template</inkscape:shortdesc>
     <inkscape:date>2021-03-27</inkscape:date>
+    <inkscape:keywords>Linux, Icons, Spiffily</inkscape:keywords>
   </inkscape:templateinfo>
 </svg>
