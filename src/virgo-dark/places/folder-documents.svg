@@ -12,8 +12,11 @@
    viewBox="0 0 33.866666 33.866666"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="folder-documents.svg">
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="folder-documents.svg"
+   inkscape:export-filename="D:\Pictures\Icons\virgo\doc1.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -46,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.63921569"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="49.188904"
-     inkscape:cy="74.00807"
+     inkscape:zoom="3.959798"
+     inkscape:cx="51.286868"
+     inkscape:cy="62.423047"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -62,10 +65,10 @@
      guideopacity="0.50588235"
      guidehicolor="#00c282"
      guidehiopacity="0.49803922"
-     inkscape:window-width="1920"
-     inkscape:window-height="1014"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="22"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -90,10 +93,6 @@
        position="33.866666,0"
        orientation="0,-128"
        id="guide847" />
-    <sodipodi:guide
-       position="0,0"
-       orientation="-128,0"
-       id="guide849" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -127,24 +126,24 @@
        id="rect835"
        width="29.104166"
        height="18.520834"
-       x="2.6458337"
+       x="2.645834"
        y="8.4666662"
        ry="2.1166668" />
     <path
        style="fill:none;stroke:#ffffff;stroke-width:0.661458;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 31.749997,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 -2.866429,-0.881803 -3.748339,-2.6456222 -5.95319,-3.5277431 -2.204852,-0.882121 -5.7324877,-0.882121 -7.7169023,-0.882121 -1.9844147,0 -2.4253781,0 -2.8666149,0"
+       d="m 31.749998,12.435417 c 0,0 0,0 -2.425261,0 -2.425261,0 -7.275765,0 -10.142195,-0.881803 C 16.316113,10.671811 15.434203,8.9079921 13.229351,8.0258712 11.024499,7.1437503 7.4968635,7.1437503 5.5124488,7.1437503 c -1.9844146,0 -2.425378,0 -2.8666148,0"
        id="path843"
        inkscape:path-effect="#path-effect845"
-       inkscape:original-d="m 31.749997,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.5274781 -2.645834,-5.2916671 -3.527582,2.65e-4 -7.0552177,2.65e-4 -10.5833305,0 -0.4407165,2.65e-4 -0.8816799,2.65e-4 -1.3229167,0"
+       inkscape:original-d="m 31.749998,12.435417 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 -4.850522,2.65e-4 -9.701026,2.65e-4 -14.552082,0 -0.881698,-1.763659 -1.763607,-3.5274779 -2.645834,-5.2916667 -3.527583,2.646e-4 -7.0552185,2.646e-4 -10.5833313,0 -0.4407165,2.646e-4 -0.8816799,2.646e-4 -1.3229167,0"
        sodipodi:nodetypes="cccccc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 27.781248,7.1437499 c 0,0 0,0 0,0 z"
+       d="m 27.781249,7.1437504 c 0,0 0,0 0,0 z"
        id="path847"
        inkscape:path-effect="#path-effect849"
-       inkscape:original-d="m 27.781248,7.1437499 c 2.65e-4,2.65e-4 2.65e-4,2.65e-4 0,0 z" />
+       inkscape:original-d="m 27.781249,7.1437504 c 2.65e-4,2.646e-4 2.65e-4,2.646e-4 0,0 z" />
     <rect
-       style="fill:#999999;fill-rule:evenodd;stroke-width:0.264583"
+       style="fill:#a0892c;fill-rule:evenodd;stroke-width:0.264583"
        id="rect1884"
        width="8.4666662"
        height="12.7"
@@ -153,11 +152,11 @@
        ry="2.1166666" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 12.699999,14.816666 Z"
+       d="M 12.7,14.816666 Z"
        id="path1888" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.933332,20.108333 Z"
+       d="M 16.933333,20.108333 Z"
        id="path1898" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -165,46 +164,39 @@
        id="path1906" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 8.4666666,19.05 Z"
+       d="M 8.4666668,19.05 Z"
        id="path1908" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.537301,20.108333 Z"
+       d="M 16.537302,20.108333 Z"
        id="path1912" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.049999,22.224999 Z"
+       d="M 19.05,22.224999 Z"
        id="path1916" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8.4666666,22.224999 h 5.2916654 v 0"
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,22.224999 h 5.2916662 v 0"
        id="path1924" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 19.049999,20.108333 Z"
+       d="M 19.05,20.108333 Z"
        id="path1926" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8.4666666,20.108333 h 5.2916654 v 0"
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,20.108333 h 5.2916662 v 0"
        id="path1928" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 16.933332,20.646949 Z"
+       d="M 16.933333,20.646949 Z"
        id="path1930" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.396875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 8.4666666,17.991666 h 5.2916654 v 0"
+       style="fill:none;stroke:#000000;stroke-width:0.39687499;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 8.4666668,17.991666 h 5.2916662 v 0"
        id="path1932" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 24.341665,22.224999 v 0"
+       d="m 24.341666,22.224999 v 0"
        id="path1934" />
   </g>
-  <inkscape:templateinfo>
-    <inkscape:name>Linux Icon</inkscape:name>
-    <inkscape:author>Spiffily Software</inkscape:author>
-    <inkscape:shortdesc>Basic non-symbolic linux icon template</inkscape:shortdesc>
-    <inkscape:date>2021-03-27</inkscape:date>
-    <inkscape:keywords>Linux, Icons, Spiffily</inkscape:keywords>
-  </inkscape:templateinfo>
 </svg>
